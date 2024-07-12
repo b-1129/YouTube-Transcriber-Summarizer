@@ -20,13 +20,15 @@ The **YouTube Transcriber Summarizer** is an application that leverages the powe
 3. Install requirements.txt file :
    pip install -r requirements.txt
 
-4. Run App:
+4. Create .env file and save your GOOGLE_API_KEY:
+
+5. Run App:
    streamlit run app.py
 
-5. Access the application: (It will redirect automatically.)
+6. Access the application: (It will redirect automatically.)
    Open your browser and navigate to http://localhost:8000. 
 
-6. Transcribe and Summarize
+7. Transcribe and Summarize
    - Enter the YouTube video link.
    - Press Enter for Thumbnail.
    - Click on "Get Detailed Notes.
