@@ -1,5 +1,12 @@
 # YouTube-Transcriber-Summarizer
 
+
+
+
+https://github.com/user-attachments/assets/5d67f527-4045-4607-bd66-1d34a8918a7b
+
+
+
 ## Overview
 The **YouTube Transcriber Summarizer** is an application that leverages the power of Google Gemini Pro and large language models (LLMs) to transcribe and summarize YouTube videos. This tool is designed to provide concise summaries of YouTube content, making it easier for users to digest long videos quickly and efficiently.
 
