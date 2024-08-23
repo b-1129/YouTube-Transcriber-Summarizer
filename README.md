@@ -26,8 +26,7 @@ The **YouTube Transcriber Summarizer** is an application that leverages the powe
    streamlit run app.py
 
 6. Access the application: (It will redirect automatically.)
-   Open your browser and navigate to http://localhost:8000. 
-
+   
 7. Transcribe and Summarize
    - Enter the YouTube video link.
    - Press Enter for Thumbnail.
